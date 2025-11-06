@@ -1,0 +1,8 @@
+Prio: Not urgent
+
+Name: Adolfo Loustaunau Villazon
+
+Submitted: 2025-11-05T22:00:13.550-05:00
+
+Description:
+User is unable to open Excel VBA modules/macros and is confused by troubleshooting steps, requesting to speak with a human agent.
