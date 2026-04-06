@@ -1,8 +1,9 @@
 User Name: Adolfo
 Submitted: 2026-04-06T18:15:48.000+00:00
 Description: Windows laptop, wired keyboard not working. User reported issue to assistant; ticket created for hardware escalation. Suggested troubleshooting steps: unplug/replug into different USB port, test keyboard on another PC, try On-Screen Keyboard, boot into Safe Mode, uninstall keyboard device in Device Manager and restart.
-Status: Open
+Status: Closed
 Prio: Urgent
 
 Activity Log:
 2026-04-06T18:15:48.000+00:00 - Ticket created (Urgent). Escalated to human IT technician for hardware/repair.
+2026-04-06T18:20:00.000+00:00 - Ticket closed by assistant per user request. No further action required.
