@@ -1,9 +1,9 @@
 User Name: Erick Fatumini
-
 Submitted: 2026-04-10T10:44:19.490-04:00
-
 Description:
-
-
-Status: Open
+Bluetooth wireless keyboard not working. Troubleshooting steps provided; user re-paired keyboard and confirmed working.
+Status: Closed
 Prio: Not Urgent
+Activity Log:
+2026-04-10T10:44:19.490-04:00 - Ticket created (Not Urgent).
+2026-04-10T10:46:00.000-04:00 - User reported: "Issue resolved, keyboard working." Ticket closed.
